@@ -1,2 +1,4 @@
-# dl-for-coders-workbook
-This repo is for the assignments and projects built as part of the DL for Coders course from FastAI. 
+# Deep Learning For Coders Workbook
+
+I tried to complete Deep Learning For Coders course offered by FastAI in around Oct 2024. The course's exercises and projects are added in this repository. Keeping up with the course's spirits, I'm keeping all the projects and exercises as notebooks. 
+
